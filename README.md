@@ -1,9 +1,6 @@
 <h1 align="center">Persian Word Embedding</h1>
 <p align="center">
-<img align="center" width="408.75" height="356" src="/assets/flamenco-downloading-1.png">
-</p>
-
-<p align="center">
+  <p align="center">
   <img src="https://img.shields.io/github/downloads/ashalogic/Persian-Sentiment-Analyzer/total"/>
   <img src="https://img.shields.io/github/issues/ashalogic/Persian-Sentiment-Analyzer"/>
   <img src="https://img.shields.io/github/license/ashalogic/Persian-Sentiment-Analyzer"/>
@@ -11,6 +8,9 @@
     <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
   </a>
 </p>
+</p>
+
+
 
 #
 ### LSTM Sentiment analysis for Persian text
