@@ -1,13 +1,12 @@
-<h1 align="center">Persian Word Embedding</h1>
-<p align="center">
-  <p align="center">
-  <img src="https://img.shields.io/github/downloads/ashalogic/Persian-Sentiment-Analyzer/total"/>
+<h1 align="center">Persian Word Embedding
+<img src="https://img.shields.io/github/downloads/ashalogic/Persian-Sentiment-Analyzer/total"/>
   <img src="https://img.shields.io/github/issues/ashalogic/Persian-Sentiment-Analyzer"/>
   <img src="https://img.shields.io/github/license/ashalogic/Persian-Sentiment-Analyzer"/>
   <a href="https://colab.research.google.com/github/ashalogic/Persian-Sentiment-Analyzer/blob/master/Tutorial.ipynb">
     <img src="https://colab.research.google.com/assets/colab-badge.svg"/>
-  </a>
-</p>
+  </a></h1>
+  <p align="center">
+  
 </p>
 
 
