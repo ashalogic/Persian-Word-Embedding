@@ -1,6 +1,6 @@
 <h1 align="center">Persian Word Embedding</h1>
 <p align="center">
-<img align="center" width="261.75" height="228" src="/assets/flamenco-downloading-1.png">
+<img align="center" width="408.75" height="356" src="/assets/flamenco-downloading-1.png">
 </p>
 
 <p align="center">
@@ -15,7 +15,7 @@
 #
 ### LSTM Sentiment analysis for Persian text
 
-<img align="right" width="280" height="217.25" src="/assets/undraw_Posts_rskc.png">
+<img align="right" width="261.75" height="228" src="/assets/flamenco-downloading-1.png">
 
 Persian sentiment analysis ( آناکاوی سهش های فارسی | تحلیل احساسات فارسی ) is a simple ready to use project that use Python to create the model and Also it's include a very good IPython Tutorial to know what happend from base step by step.
 also for people who only want to use model there is release version and some snpippt in Javascript (ReactJs in this case), C# (dotNet core) and any programming language who can use TensorFlow models.
