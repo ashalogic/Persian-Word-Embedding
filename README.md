@@ -1,6 +1,9 @@
-<h1 align="center">Persian Word Embedding
+<p align="center">
+  <img align="center" width="423.66" height="270" src="/assets/undraw_body_text_l3ld.png">
+</p>
 
-</h1>
+<h1 align="center">Persian Word Embedding</h1>
+
 <p align="center">
   <img src="https://img.shields.io/github/downloads/ashalogic/Persian-Sentiment-Analyzer/total"/>
   <img src="https://img.shields.io/github/issues/ashalogic/Persian-Sentiment-Analyzer"/>
