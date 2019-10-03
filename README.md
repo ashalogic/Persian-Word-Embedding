@@ -7,8 +7,6 @@
   </a>
 </h1>
 
-
-#
 ### LSTM Sentiment analysis for Persian text
 
 <img align="right" width="261.75" height="228" src="/assets/flamenco-downloading-1.png">
