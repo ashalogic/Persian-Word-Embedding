@@ -10,7 +10,7 @@
   </a>
 </p>
 
-### ``What?`` Sentiment analysis for Persian text
+### ``Word Embedding??``
 
 <img align="right" width="261.75" height="228" src="/assets/flamenco-downloading-1.png">
 
@@ -22,3 +22,7 @@ also for people who only want to use model there is release version and some snp
 ---
 ---
 ---
+
+
+### Models 
+  -[]
