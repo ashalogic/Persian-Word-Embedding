@@ -11,8 +11,11 @@
 </p>
 
 ### ``Word is a word embedding model?``
-
 <img align="right" width="261.75" height="228" src="/assets/flamenco-downloading-1.png">
+
+Word embedding is one of the most popular representation of document vocabulary. It is capable of capturing context of a word in a document, semantic and syntactic similarity, relation with other words, etc.
+
+### ``Word is a word embedding model?``
 
 Word embedding is one of the most popular representation of document vocabulary. It is capable of capturing context of a word in a document, semantic and syntactic similarity, relation with other words, etc.
 
