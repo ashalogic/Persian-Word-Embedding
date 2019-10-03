@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" width="423.66" height="270" src="/assets/undraw_body_text_l3ld.png">
+  <img align="center" width="608.66" height="456" src="/assets/ginger-cat-productive-work.png">
 </p>
 
 <h1 align="center">Persian Word Embedding</h1>
