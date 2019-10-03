@@ -1,6 +1,6 @@
 <h1 align="center">Persian Word Embedding</h1>
 <p align="center">
-<img align="center" width="546.5" height="382" src="/assets/undraw_add_notes_8cfw.png">
+<img align="center" width="261.75" height="228" src="/assets/flamenco-downloading-1.png">
 </p>
 
 <p align="center">
