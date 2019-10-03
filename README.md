@@ -32,11 +32,41 @@ Hmm not very important but maybe the only place you can find all word embedding 
 
 > Important note: some models currently have pretrained version for Persian so I just made them lite
 
-### Here is Models list that im going to use
-- [ ] Google’s Universal Sentence Encoder (This one is not Public Available)
-- [x] FasTText
-- [ ] ELMo
-- [ ] Word2Vec
-- [ ] Glove
+### Project status
+- [ ] [Google’s Universal Sentence Encoder](http://google.com) (This one is not Public Available)
+  - [ ] Train.py
+  - [ ] Train.ipynb
+  - [ ] Model.bin
+  - [ ] Model_Lite.bin
+  - [ ] Model.vec
+  - [ ] Model_Lite.vec
+- [x] [FasTText](https://github.com/ashalogic/Persian-Word-Embedding/tree/master/Fasttext)
+  - [ ] Train.py
+  - [ ] Train.ipynb
+  - [x] Model.bin
+  - [ ] Model_Lite.bin
+  - [x] Model.vec
+  - [ ] Model_Lite.vec
+- [ ] [ELMo](https://github.com/ashalogic/Persian-Word-Embedding/tree/master/Elmo)
+  - [ ] Train.py
+  - [ ] Train.ipynb
+  - [ ] Model.bin
+  - [ ] Model_Lite.bin
+  - [ ] Model.vec
+  - [ ] Model_Lite.vec
+- [ ] [Word2Vec](https://github.com/ashalogic/Persian-Word-Embedding/tree/master/Word2vec)
+  - [ ] Train.py
+  - [ ] Train.ipynb
+  - [ ] Model.bin
+  - [ ] Model_Lite.bin
+  - [ ] Model.vec
+  - [ ] Model_Lite.vec
+- [ ] [Glove](https://github.com/ashalogic/Persian-Word-Embedding/tree/master/Glove)
+  - [ ] Train.py
+  - [ ] Train.ipynb
+  - [ ] Model.bin
+  - [ ] Model_Lite.bin
+  - [ ] Model.vec
+  - [ ] Model_Lite.vec
 
 
