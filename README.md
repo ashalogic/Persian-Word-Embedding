@@ -33,7 +33,7 @@ Hmm not very important but maybe the only place you can find all word embedding 
 > Important note: some models currently have pretrained version for Persian so I just made them lite
 
 ### Here is Models list that im going to use
-- [ ] Google’s Universal Sentence Encoder (This one is not Public Availabel)
+- [ ] Google’s Universal Sentence Encoder (This one is not Public Available)
 - [x] FasTText
 - [ ] ELMo
 - [ ] Word2Vec
