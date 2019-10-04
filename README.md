@@ -27,11 +27,36 @@ Word embedding is one of the most popular representation of document vocabulary.
 ---
 
 
-### ``Ok But Where is here then?``
+### ``So what now?``
 
 Hmm not very important but maybe the only place you can find all word embedding for Persian to ``Train`` or just download the ``Pretrained`` version and of course one important thing is that, here I collect current best Models (2019) and I made a ``Lite`` version of them to use in your JS or Android or C# or ... Application without using Online API or...
 
 > Important note: some models currently have pretrained version for Persian so I just made them lite
+
+
+### ``Corpus?`` Wikipedia!
+---
+
+
+---
+---
+
+
+#### Where to Download ``Wikipedia`` Corpus?
+---
+---
+---
+
+#### Here is some others Corpus to Download
+---
+---
+---
+
+### Models
+  - #Fasttext
+  FastText is an open-source, free, lightweight library that allows users to learn text representations and text classifiers. It works on standard, generic hardware. Models can later be reduced in size to even fit on mobile devices.
+
+
 
 ### Project status
 - [ ] [Google’s Universal Sentence Encoder](http://google.com) (This one is not Public Available)
