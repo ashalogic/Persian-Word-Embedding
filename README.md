@@ -43,9 +43,7 @@ Hmm not very important but maybe the only place you can find all word embedding 
 
 
 #### Where to Download ``Wikipedia`` Corpus?
----
----
----
+You can see backup status of Wikipedia in each language [here](https://dumps.wikimedia.org/backup-index-bydb.html). And you can see backup versions you can download for Persian Wikipedia [here](https://dumps.wikimedia.org/fawiki/). Choose "latest" because we want to use the newest version. And we need to download [fawiki-latest-pages-articles-multistream.xml.bz2](https://dumps.wikimedia.org/fawiki/latest/fawiki-latest-pages-articles-multistream.xml.bz2) in the files.
 
 #### Here is some others Corpus to Download
 ---
